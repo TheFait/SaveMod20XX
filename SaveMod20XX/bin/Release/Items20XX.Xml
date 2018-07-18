@@ -1,5 +1,4 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<!--NOTE: The Items' Availability setting can be 'NoChange', 'Unlocked', or 'Locked'. NoChange will retain the existing value in the save file, if able.-->
 <SaveMod20XXSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <CreatedWithProgramVersion>3.3.6772.27891</CreatedWithProgramVersion>
   <UseGraphicalUserInterface>true</UseGraphicalUserInterface>
@@ -99,7 +98,7 @@
     <Item HexValue="0x00000000000000000000002000" Availability="NoChange" Lockable="true" Name="SplinteringTwinifier" />
     <Item HexValue="0x00000000000000000000004000" Availability="NoChange" Lockable="true" Name="ZookeepersZeal" />
     <Item HexValue="0x00000000000000000000000100" Availability="NoChange" Lockable="true" Name="Dashbolt" />
-    <Item HexValue="0x00000000000000000000000200" Availability="NoChange" Lockable="true" Name="ReflexRapidifier" />
+    <Item HexValue="0x00000000000000000000000200" Availability="NoChange" Lockable="true" Name="" />
     <Item HexValue="0x00000000000000000000000400" Availability="NoChange" Lockable="true" Name="Utilifier" />
     <Item HexValue="0x00000000000000000000000800" Availability="NoChange" Lockable="true" Name="Vibrofocus" />
     <Item HexValue="0x00000000000000000000000010" Availability="NoChange" Lockable="true" Name="Force Resonator" />
