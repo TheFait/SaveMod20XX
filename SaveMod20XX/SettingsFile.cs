@@ -142,7 +142,7 @@ namespace SaveMod20XX
             new Item { Name = "SplinteringTwinifier" , HexValue = "0x00000000000000000000002000", Availability = LockState.NoChange, Lockable = true },
             new Item { Name = "ZookeepersZeal"       , HexValue = "0x00000000000000000000004000", Availability = LockState.NoChange, Lockable = true },
             new Item { Name = "Dashbolt"             , HexValue = "0x00000000000000000000000100", Availability = LockState.NoChange, Lockable = true },            
-            new Item { Name = "ReflexRapidifier"     , HexValue = "0x00000000000000000000000200", Availability = LockState.NoChange, Lockable = true },
+            new Item { Name = ""                     , HexValue = "0x00000000000000000000000200", Availability = LockState.NoChange, Lockable = true },
             new Item { Name = "Utilifier"            , HexValue = "0x00000000000000000000000400", Availability = LockState.NoChange, Lockable = true },            
             new Item { Name = "Vibrofocus"           , HexValue = "0x00000000000000000000000800", Availability = LockState.NoChange, Lockable = true },
             new Item { Name = "Force Resonator"      , HexValue = "0x00000000000000000000000010", Availability = LockState.NoChange, Lockable = true },
