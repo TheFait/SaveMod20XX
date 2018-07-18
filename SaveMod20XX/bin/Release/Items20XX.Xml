@@ -1,4 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
+<!--NOTE: The Items' Availability setting can be 'Locked', 'Unlocked', or 'NoChange'. NoChange will retain the existing value in the save file, if able.-->
 <SaveMod20XXSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <CreatedWithProgramVersion>3.3.6772.27891</CreatedWithProgramVersion>
   <UseGraphicalUserInterface>true</UseGraphicalUserInterface>
