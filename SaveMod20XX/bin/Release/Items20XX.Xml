@@ -98,6 +98,7 @@
     <Item HexValue="0x00000000000000000000001000" Availability="NoChange" Lockable="true" Name="Leafpetal" />
     <Item HexValue="0x00000000000000000000002000" Availability="NoChange" Lockable="true" Name="SplinteringTwinifier" />
     <Item HexValue="0x00000000000000000000004000" Availability="NoChange" Lockable="true" Name="ZookeepersZeal" />
+	<Item HexValue="0x00000000000000000000008000" Availability="NoChange" Lockable="true" Name="CrisisLifebank" />
     <Item HexValue="0x00000000000000000000000100" Availability="NoChange" Lockable="true" Name="Dashbolt" />
     <Item HexValue="0x00000000000000000000000200" Availability="NoChange" Lockable="true" Name="" />
     <Item HexValue="0x00000000000000000000000400" Availability="NoChange" Lockable="true" Name="Utilifier" />
